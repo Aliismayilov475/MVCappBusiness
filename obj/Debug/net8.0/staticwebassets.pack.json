@@ -1,0 +1,145 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\css\\lineicons.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lineicons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\css\\tiny-slider.css",
+      "PackagePath": "staticwebassets\\assets\\css\\tiny-slider.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\fonts\\LineIcons.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\fonts\\LineIcons.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\fonts\\LineIcons.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\fonts\\LineIcons.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\fonts\\LineIcons.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\LineIcons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\about\\about-img1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\about\\about-img1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\ayroui.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\ayroui.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\blog\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\blog\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\blog\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\blog\\b6.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\blog\\b6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\call-action\\overlay.png",
+      "PackagePath": "staticwebassets\\assets\\images\\call-action\\overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\client-logo\\ayroui.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\ayroui.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\client-logo\\ecomhtml.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\ecomhtml.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\client-logo\\graygrids.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\graygrids.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\client-logo\\lineicons.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\lineicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\client-logo\\tailwindtemplates.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\tailwindtemplates.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\client-logo\\uideck.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\client-logo\\uideck.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\favicon.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\header\\hero-image.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\header\\hero-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\images\\white-logo.svg",
+      "PackagePath": "staticwebassets\\assets\\images\\white-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\js\\tiny-slider.js",
+      "PackagePath": "staticwebassets\\assets\\js\\tiny-slider.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\StepDZ\\Business\\wwwroot\\assets\\video\\video.mp4",
+      "PackagePath": "staticwebassets\\assets\\video\\video.mp4"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Business.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Business.props",
+      "PackagePath": "build\\Business.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Business.props",
+      "PackagePath": "buildMultiTargeting\\Business.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Business.props",
+      "PackagePath": "buildTransitive\\Business.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
